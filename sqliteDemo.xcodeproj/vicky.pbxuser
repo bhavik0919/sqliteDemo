@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* sqliteDemo */ = {
+		activeExec = 0;
+		executables = (
+			98F1918612DB0D830039B16F /* sqliteDemo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* sqliteDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 410}}";
+			sepNavSelRange = "{241, 0}";
+			sepNavVisRange = "{0, 251}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* sqliteDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {945, 1372}}";
+			sepNavSelRange = "{1679, 155}";
+			sepNavVisRange = "{1342, 1097}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 98F1918612DB0D830039B16F /* sqliteDemo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* sqliteDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* sqliteDemo */,
+		);
+		breakpoints = (
+			98F191A112DB12A20039B16F /* sqliteDemoViewController.m:37 */,
+		);
+		codeSenseManager = 98F1919412DB0D9F0039B16F /* Code sense */;
+		executables = (
+			98F1918612DB0D830039B16F /* sqliteDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					657.20849609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					767,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318239222;
+			PBXWorkspaceStateSaveDate = 318239222;
+		};
+		perUserProjectItems = {
+			98D326FC12F7F2AB00B23FC6 /* PBXTextBookmark */ = 98D326FC12F7F2AB00B23FC6 /* PBXTextBookmark */;
+			98DA518212DB9CF500CF4874 /* PBXTextBookmark */ = 98DA518212DB9CF500CF4874 /* PBXTextBookmark */;
+			98F191A312DB12A80039B16F /* PBXTextBookmark */ = 98F191A312DB12A80039B16F /* PBXTextBookmark */;
+			98F191A512DB12A80039B16F /* PBXTextBookmark */ = 98F191A512DB12A80039B16F /* PBXTextBookmark */;
+			98F191C312DB16C00039B16F /* PBXTextBookmark */ = 98F191C312DB16C00039B16F /* PBXTextBookmark */;
+			98F191C512DB16C00039B16F /* PBXTextBookmark */ = 98F191C512DB16C00039B16F /* PBXTextBookmark */;
+		};
+		sourceControlManager = 98F1919312DB0D9F0039B16F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	98D326FC12F7F2AB00B23FC6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* sqliteDemoViewController.m */;
+		name = "sqliteDemoViewController.m: 59";
+		rLen = 155;
+		rLoc = 1679;
+		rType = 0;
+		vrLen = 1097;
+		vrLoc = 1342;
+	};
+	98DA518212DB9CF500CF4874 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* sqliteDemoViewController.m */;
+		name = "sqliteDemoViewController.m: 76";
+		rLen = 0;
+		rLoc = 2106;
+		rType = 0;
+		vrLen = 1051;
+		vrLoc = 1603;
+	};
+	98F1918612DB0D830039B16F /* sqliteDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = sqliteDemo;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	98F1919312DB0D9F0039B16F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	98F1919412DB0D9F0039B16F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	98F191A112DB12A20039B16F /* sqliteDemoViewController.m:37 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* sqliteDemoViewController.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 37;
+		location = sqliteDemo;
+		modificationTime = 316348124.582354;
+		state = 1;
+	};
+	98F191A312DB12A80039B16F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* sqliteDemoViewController.h */;
+		name = "sqliteDemoViewController.h: 13";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	98F191A512DB12A80039B16F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* sqliteDemoViewController.h */;
+		name = "sqliteDemoViewController.h: 13";
+		rLen = 0;
+		rLoc = 241;
+		rType = 0;
+		vrLen = 251;
+		vrLoc = 0;
+	};
+	98F191BB12DB14230039B16F /* sqlite3.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = sqlite3.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator2.2.1.sdk/usr/include/sqlite3.h;
+		sourceTree = "<absolute>";
+	};
+	98F191C312DB16C00039B16F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98F191BB12DB14230039B16F /* sqlite3.h */;
+		name = "sqlite3.h: 577";
+		rLen = 3;
+		rLoc = 25310;
+		rType = 0;
+		vrLen = 1756;
+		vrLoc = 24297;
+	};
+	98F191C512DB16C00039B16F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 98F191BB12DB14230039B16F /* sqlite3.h */;
+		name = "sqlite3.h: 577";
+		rLen = 3;
+		rLoc = 25310;
+		rType = 0;
+		vrLen = 1756;
+		vrLoc = 24297;
+	};
+}
